@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-27T07:13:28.564Z",
-  "source": "arXiv quant-ph",
-  "title": "Stochastic Neural Networks for Quantum Devices",
-  "url": "https://arxiv.org/abs/2602.22241",
-  "date": "2026-02-27T05:00:00.000Z",
-  "summary": "arXiv:2602.22241v1 Announce Type: new Abstract: This work presents a formulation to express and optimize stochastic neural networks as quantum circuits in gate-based quantum compu…"
+  "generatedAt": "2026-02-28T06:57:04.001Z",
+  "source": "NVIDIA Dev Blog",
+  "title": "Develop Native Multimodal Agents with Qwen3.5 VLM Using NVIDIA GPU-Accelerated Endpoints",
+  "url": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
+  "date": "2026-02-27T17:30:00.000Z",
+  "summary": "Alibaba has introduced the new open source Qwen3.5 series built for native multimodal agents. The first model in this series is a ~400B parameter native... Alibaba has introduced …"
 }
