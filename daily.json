@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-28T06:57:04.001Z",
+  "generatedAt": "2026-03-01T07:04:29.068Z",
   "source": "NVIDIA Dev Blog",
-  "title": "Develop Native Multimodal Agents with Qwen3.5 VLM Using NVIDIA GPU-Accelerated Endpoints",
-  "url": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
-  "date": "2026-02-27T17:30:00.000Z",
-  "summary": "Alibaba has introduced the new open source Qwen3.5 series built for native multimodal agents. The first model in this series is a ~400B parameter native... Alibaba has introduced …"
+  "title": "5 New Digital Twin Products Developers Can Use to Build 6G Networks",
+  "url": "https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
+  "date": "2026-03-01T07:00:00.000Z",
+  "summary": "To make 6G a reality, the telecom industry must overcome a fundamental challenge: how to design, train, and validate AI-native networks that are too complex to... To make 6G a rea…"
 }
