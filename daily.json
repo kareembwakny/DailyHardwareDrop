@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-02T07:16:31.088Z",
+  "generatedAt": "2026-03-03T07:11:15.669Z",
   "source": "arXiv quant-ph",
-  "title": "Ground state and persistent oscillations in the quantum East model",
-  "url": "https://arxiv.org/abs/2602.23422",
-  "date": "2026-03-02T05:00:00.000Z",
-  "summary": "arXiv:2602.23422v1 Announce Type: new Abstract: For the 1D quantum East model with open boundaries, we show that in the limit $s \\to -\\infty$, the ground state is accurately captu…"
+  "title": "Stairway Codes: Floquetifying Bivariate Bicycle Codes and Beyond",
+  "url": "https://arxiv.org/abs/2603.00228",
+  "date": "2026-03-03T05:00:00.000Z",
+  "summary": "arXiv:2603.00228v1 Announce Type: new Abstract: Floquet codes define fault-tolerant protocols through periodic measurement sequences that drive a dynamically evolving stabilizer g…"
 }
