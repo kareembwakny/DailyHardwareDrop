@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-06T07:08:31.473Z",
-  "source": "arXiv quant-ph",
-  "title": "Unified Probe of Quantum Chaos and Ergodicity from Hamiltonian Learning",
-  "url": "https://arxiv.org/abs/2603.04486",
-  "date": "2026-03-06T05:00:00.000Z",
-  "summary": "arXiv:2603.04486v1 Announce Type: new Abstract: Developing measures of quantum ergodicity and chaos stands as a foundational task in the study of quantum many-body systems. In thi…"
+  "generatedAt": "2026-03-07T06:59:15.281Z",
+  "source": "NVIDIA Dev Blog",
+  "title": "Tuning Flash Attention for Peak Performance in NVIDIA CUDA Tile",
+  "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
+  "date": "2026-03-05T17:00:00.000Z",
+  "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: How to implement Flash Attention using NVIDIA... In this post, we …"
 }
