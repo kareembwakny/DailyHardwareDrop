@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-08T07:01:39.960Z",
-  "source": "NVIDIA Dev Blog",
-  "title": "Tuning Flash Attention for Peak Performance in NVIDIA CUDA Tile",
-  "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-  "date": "2026-03-05T17:00:00.000Z",
-  "summary": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: How to implement Flash Attention using NVIDIA... In this post, we …"
+  "generatedAt": "2026-03-09T07:18:16.297Z",
+  "source": "arXiv quant-ph",
+  "title": "In-situ Characterization of Light-Matter Coupling in Multimode Circuit-QED Systems",
+  "url": "https://arxiv.org/abs/2603.05583",
+  "date": "2026-03-09T04:00:00.000Z",
+  "summary": "arXiv:2603.05583v1 Announce Type: new Abstract: Multimode cavity-QED systems can be leveraged to explore a wide range of physical phenomena; however, a complex multimode environme…"
 }
