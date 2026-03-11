@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-10T07:09:02.715Z",
+  "generatedAt": "2026-03-11T07:12:23.967Z",
   "source": "arXiv quant-ph",
-  "title": "Quantum Walks Assisted Bidirectional Remote State Preparation",
-  "url": "https://arxiv.org/abs/2603.06596",
-  "date": "2026-03-10T04:00:00.000Z",
-  "summary": "arXiv:2603.06596v1 Announce Type: new Abstract: We present a scheme for bidirectional remote state preparation (BRSP) using quantum walks on two independent one-dimensional lattic…"
+  "title": "Formally Verifying Quantum Phase Estimation Circuits with 1,000+ Qubits",
+  "url": "https://arxiv.org/abs/2603.08762",
+  "date": "2026-03-11T04:00:00.000Z",
+  "summary": "arXiv:2603.08762v1 Announce Type: new Abstract: We present a scalable formal verification methodology for Quantum Phase Estimation (QPE) circuits. Our approach uses a symbolic qub…"
 }
