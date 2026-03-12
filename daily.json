@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-11T07:12:23.967Z",
+  "generatedAt": "2026-03-12T07:13:42.597Z",
   "source": "arXiv quant-ph",
-  "title": "Formally Verifying Quantum Phase Estimation Circuits with 1,000+ Qubits",
-  "url": "https://arxiv.org/abs/2603.08762",
-  "date": "2026-03-11T04:00:00.000Z",
-  "summary": "arXiv:2603.08762v1 Announce Type: new Abstract: We present a scalable formal verification methodology for Quantum Phase Estimation (QPE) circuits. Our approach uses a symbolic qub…"
+  "title": "Mitigating Frequency Learning Bias in Quantum Models via Multi-Stage Residual Learning",
+  "url": "https://arxiv.org/abs/2603.10083",
+  "date": "2026-03-12T04:00:00.000Z",
+  "summary": "arXiv:2603.10083v1 Announce Type: new Abstract: Quantum machine learning models based on parameterized circuits can be viewed as Fourier series approximators. However, they often …"
 }
