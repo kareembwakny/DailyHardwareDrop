@@ -5,29 +5,9 @@ import Parser from "rss-parser";
 const parser = new Parser({ timeout: 15000 });
 
 const FEEDS = [
-  { name: "arXiv quant-ph", url: "https://rss.arxiv.org/rss/quant-ph" },
-  { name: "NVIDIA Dev Blog", url: "https://developer.nvidia.com/blog/feed" },
+  // Hardware
   {
-  name: "arXiv Quantum Physics",
-  url: "https://arxiv.org/rss/quant-ph"
-},
-{
-  name: "arXiv General Relativity",
-  url: "https://arxiv.org/rss/gr-qc"
-},
-{
-  name: "arXiv High Energy Theory",
-  url: "https://arxiv.org/rss/hep-th"
-},
-{
-  name: "Quanta Magazine",
-  url: "https://www.quantamagazine.org/feed/"
-},
-{
-  name: "Perimeter Institute",
-  url: "https://www.perimeterinstitute.ca/news/rss.xml"
-}
- name: "NVIDIA Dev Blog",
+    name: "NVIDIA Dev Blog",
     url: "https://developer.nvidia.com/blog/rss.xml"
   },
   {
@@ -37,7 +17,30 @@ const FEEDS = [
   {
     name: "Intel Newsroom",
     url: "https://www.intel.com/content/www/us/en/newsroom/rss-feed.html"
+  },
+
+  // Physics
+  {
+    name: "arXiv Quantum Physics",
+    url: "https://arxiv.org/rss/quant-ph"
+  },
+  {
+    name: "arXiv General Relativity",
+    url: "https://arxiv.org/rss/gr-qc"
+  },
+  {
+    name: "arXiv High Energy Theory",
+    url: "https://arxiv.org/rss/hep-th"
+  },
+  {
+    name: "Quanta Magazine",
+    url: "https://www.quantamagazine.org/feed/"
+  },
+  {
+    name: "Perimeter Institute",
+    url: "https://www.perimeterinstitute.ca/news/rss.xml"
   }
+
 ];
 
 function clean(text, maxLen = 160) {
