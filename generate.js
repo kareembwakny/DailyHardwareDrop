@@ -7,6 +7,37 @@ const parser = new Parser({ timeout: 15000 });
 const FEEDS = [
   { name: "arXiv quant-ph", url: "https://rss.arxiv.org/rss/quant-ph" },
   { name: "NVIDIA Dev Blog", url: "https://developer.nvidia.com/blog/feed" },
+  {
+  name: "arXiv Quantum Physics",
+  url: "https://arxiv.org/rss/quant-ph"
+},
+{
+  name: "arXiv General Relativity",
+  url: "https://arxiv.org/rss/gr-qc"
+},
+{
+  name: "arXiv High Energy Theory",
+  url: "https://arxiv.org/rss/hep-th"
+},
+{
+  name: "Quanta Magazine",
+  url: "https://www.quantamagazine.org/feed/"
+},
+{
+  name: "Perimeter Institute",
+  url: "https://www.perimeterinstitute.ca/news/rss.xml"
+}
+ name: "NVIDIA Dev Blog",
+    url: "https://developer.nvidia.com/blog/rss.xml"
+  },
+  {
+    name: "AMD Blog",
+    url: "https://community.amd.com/rss"
+  },
+  {
+    name: "Intel Newsroom",
+    url: "https://www.intel.com/content/www/us/en/newsroom/rss-feed.html"
+  }
 ];
 
 function clean(text, maxLen = 160) {
