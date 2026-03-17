@@ -72,7 +72,9 @@ async function main() {
   const allItems = [];
 
   for (const f of FEEDS) {
+  try {
     const feed = await parser.parseURL(f.url);
+
     for (const item of feed.items || []) {
       allItems.push({
         source: f.name,
@@ -82,7 +84,11 @@ async function main() {
         summary: clean(item.contentSnippet || item.content || "", 180),
       });
     }
+
+  } catch (err) {
+    console.log("Feed failed:", f.name, f.url);
   }
+}
 
   allItems.sort((a, b) => scoreItem(b) - scoreItem(a));
 
