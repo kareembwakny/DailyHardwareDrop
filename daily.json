@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-17T07:19:16.420Z",
-  "source": "arXiv quant-ph",
-  "title": "A Block Belief-Propagation Algorithm for the Contraction of Tensor-Networks",
-  "url": "https://arxiv.org/abs/2603.13304",
-  "date": "2026-03-17T04:00:00.000Z",
-  "summary": "arXiv:2603.13304v1 Announce Type: new Abstract: Simulating many-body quantum systems on a classical computer is difficult due to the large number of degrees of freedom, causing th…"
+  "generatedAt": "2026-03-20T07:14:18.519Z",
+  "source": "arXiv Quantum Physics",
+  "title": "Asymptotic Expansions for Neural Network Approximations of Quantum Channels",
+  "url": "https://arxiv.org/abs/2603.18033",
+  "date": "2026-03-20T04:00:00.000Z",
+  "summary": "arXiv:2603.18033v1 Announce Type: new Abstract: This paper establishes the Quantum Voronovskaya--Damasclin (QVD) Theorem, providing a complete asymptotic characterization of Quant…"
 }
