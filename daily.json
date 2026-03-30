@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-26T07:36:35.415Z",
+  "generatedAt": "2026-03-30T08:01:53.472Z",
   "source": "arXiv Quantum Physics",
-  "title": "Aumann's theorem beyond ontology: quantum, postquantum, and indefinite causal order",
-  "url": "https://arxiv.org/abs/2603.23595",
-  "date": "2026-03-26T04:00:00.000Z",
-  "summary": "arXiv:2603.23595v1 Announce Type: new Abstract: Agreement theorems are no-go results about rational disagreement: if two agents start from a common prior and their posterior belie…"
+  "title": "Decoder Dependence in Surface-Code Threshold Estimation with Native Gottesman-Kitaev-Preskill Digitization and Parallelized Sampling",
+  "url": "https://arxiv.org/abs/2603.25757",
+  "date": "2026-03-30T04:00:00.000Z",
+  "summary": "arXiv:2603.25757v1 Announce Type: new Abstract: We quantify decoder dependence in surface-code threshold studies under two matched regimes: Pauli noise and native GKP-style Gaussi…"
 }
