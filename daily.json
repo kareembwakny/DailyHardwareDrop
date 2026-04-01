@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-31T07:44:43.025Z",
+  "generatedAt": "2026-04-01T07:55:08.963Z",
   "source": "arXiv Quantum Physics",
-  "title": "Degrees, Levels, and Profiles of Contextuality",
-  "url": "https://arxiv.org/abs/2603.26692",
-  "date": "2026-03-31T04:00:00.000Z",
-  "summary": "arXiv:2603.26692v1 Announce Type: new Abstract: We introduce a new notion, that of a contextuality profile of a system. Rather than characterizing a system's contextuality by a si…"
+  "title": "HAMMR-L: Noise Reduction in Quantum Outcomes Using a Richardson-Lucy Deconvolution Algorithm for Quantum State Graphs",
+  "url": "https://arxiv.org/abs/2603.28821",
+  "date": "2026-04-01T04:00:00.000Z",
+  "summary": "arXiv:2603.28821v1 Announce Type: new Abstract: Current quantum computers present significant noise, especially as circuit depth and qubit count increase. Prior work has demonstra…"
 }
