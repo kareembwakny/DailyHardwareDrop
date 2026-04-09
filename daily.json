@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-08T07:53:36.819Z",
+  "generatedAt": "2026-04-09T07:55:32.079Z",
   "source": "arXiv Quantum Physics",
-  "title": "Geometry of Free Fermion Commutants",
-  "url": "https://arxiv.org/abs/2604.05031",
-  "date": "2026-04-08T04:00:00.000Z",
-  "summary": "arXiv:2604.05031v1 Announce Type: new Abstract: Understanding the structure of operators that commute with $k$ identical replicas of unitary ensembles, also known as their $k$-com…"
+  "title": "Accelerating Quantum State Encoding with SIMD: Design, Implementation, and Benchmarking",
+  "url": "https://arxiv.org/abs/2604.06270",
+  "date": "2026-04-09T04:00:00.000Z",
+  "summary": "arXiv:2604.06270v1 Announce Type: new Abstract: Efficient data encoding is the main factor affecting how fast hybrid quantum-classical algorithms run, but traditional simulators s…"
 }
