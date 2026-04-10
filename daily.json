@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-09T07:55:32.079Z",
+  "generatedAt": "2026-04-10T07:59:48.216Z",
   "source": "arXiv Quantum Physics",
-  "title": "Accelerating Quantum State Encoding with SIMD: Design, Implementation, and Benchmarking",
-  "url": "https://arxiv.org/abs/2604.06270",
-  "date": "2026-04-09T04:00:00.000Z",
-  "summary": "arXiv:2604.06270v1 Announce Type: new Abstract: Efficient data encoding is the main factor affecting how fast hybrid quantum-classical algorithms run, but traditional simulators s…"
+  "title": "Borns Rule from Reversible Evolution and Irreversible Outcomes",
+  "url": "https://arxiv.org/abs/2604.07418",
+  "date": "2026-04-10T04:00:00.000Z",
+  "summary": "arXiv:2604.07418v1 Announce Type: new Abstract: We show that the quadratic measure need not be postulated, but follows from the compatibility of two structural features of physica…"
 }
