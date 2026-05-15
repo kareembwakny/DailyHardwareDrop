@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T09:09:38.717Z",
+  "generatedAt": "2026-05-15T09:24:20.832Z",
   "source": "arXiv Quantum Physics",
-  "title": "Quantum chaos with graphs: a silicon photonics plateform",
-  "url": "https://arxiv.org/abs/2605.12538",
-  "date": "2026-05-14T04:00:00.000Z",
-  "summary": "arXiv:2605.12538v1 Announce Type: new Abstract: We provide a versatile plateform to investigate wave-particle duality. This photonic waveguide network implements quantum (wave) gr…"
+  "title": "A QPINN Framework with Quantum Trainable Embeddings for the Lid-Driven Cavity Problem",
+  "url": "https://arxiv.org/abs/2605.13892",
+  "date": "2026-05-15T04:00:00.000Z",
+  "summary": "arXiv:2605.13892v1 Announce Type: new Abstract: The steady incompressible Navier--Stokes equations pose significant computational challenges due to their nonlinear convective term…"
 }
