@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T11:20:34.122Z",
+  "generatedAt": "2026-06-09T10:02:59.600Z",
   "source": "arXiv Quantum Physics",
-  "title": "Coordinated optimization of departure sequencing and section-track allocation in railway short-term concentrated departure scenarios based on qubo and hybrid quantum algorithms",
-  "url": "https://arxiv.org/abs/2606.06543",
-  "date": "2026-06-08T04:00:00.000Z",
-  "summary": "arXiv:2606.06543v1 Announce Type: new Abstract: This study examines the coordinated optimization of departure sequencing and section-track allocation in railway short-term concent…"
+  "title": "Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems",
+  "url": "https://arxiv.org/abs/2606.07666",
+  "date": "2026-06-09T04:00:00.000Z",
+  "summary": "arXiv:2606.07666v1 Announce Type: new Abstract: Noisy intermediate-scale quantum (NISQ) processors are entering an early fault-tolerance regime where full quantum error correction…"
 }
