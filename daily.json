@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T10:02:59.600Z",
+  "generatedAt": "2026-06-10T10:32:54.446Z",
   "source": "arXiv Quantum Physics",
-  "title": "Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems",
-  "url": "https://arxiv.org/abs/2606.07666",
-  "date": "2026-06-09T04:00:00.000Z",
-  "summary": "arXiv:2606.07666v1 Announce Type: new Abstract: Noisy intermediate-scale quantum (NISQ) processors are entering an early fault-tolerance regime where full quantum error correction…"
+  "title": "Quantum Fidelity on Krein and S-spaces",
+  "url": "https://arxiv.org/abs/2606.09939",
+  "date": "2026-06-10T04:00:00.000Z",
+  "summary": "arXiv:2606.09939v1 Announce Type: new Abstract: The notion of Fidelity for quantum states is a measure of how much two states overlap. In the matrix formalism of quantum mechanics…"
 }
