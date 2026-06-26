@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T09:45:21.552Z",
+  "generatedAt": "2026-06-26T09:51:52.014Z",
   "source": "arXiv Quantum Physics",
-  "title": "Variants of the Quantum Phase Operator for the Harmonic Oscillator",
-  "url": "https://arxiv.org/abs/2606.24913",
-  "date": "2026-06-25T04:00:00.000Z",
-  "summary": "arXiv:2606.24913v1 Announce Type: new Abstract: We introduce and study quantum phase operators associated with the Quantum Harmonic Oscillator (QHO). We show that these operators …"
+  "title": "Dissipative Quantum Multiplicative Weights with Sampling Feedback: A Classically Hard Primitive Realized via Engineered Open-System Dynamics",
+  "url": "https://arxiv.org/abs/2606.26162",
+  "date": "2026-06-26T04:00:00.000Z",
+  "summary": "arXiv:2606.26162v1 Announce Type: new Abstract: We introduce \\emph{Dissipative Quantum Multiplicative Weights with Sampling Feedback} (DQMW-Sample), an online-learning primitive i…"
 }
