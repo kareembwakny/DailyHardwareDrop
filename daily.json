@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T07:53:39.334Z",
+  "generatedAt": "2026-08-14T07:50:53.882Z",
   "source": "arXiv Quantum Physics",
-  "title": "Spectrally local geometric response at the onset of many-body quantum chaos",
-  "url": "https://arxiv.org/abs/2608.11309",
-  "date": "2026-08-13T04:00:00.000Z",
-  "summary": "arXiv:2608.11309v1 Announce Type: new Abstract: We introduce the spectral density of geometric response, a measure of eigenstate sensitivity across an energy spectrum. Applied to …"
+  "title": "Embedding Stabilizer Codes and Leakage Correction in Multilevel Quantum Systems",
+  "url": "https://arxiv.org/abs/2608.12450",
+  "date": "2026-08-14T04:00:00.000Z",
+  "summary": "arXiv:2608.12450v1 Announce Type: new Abstract: Leakage beyond the computational subspace is a major source of error in multilevel quantum hardware. We show that any \\( [[n,k,d]] …"
 }
