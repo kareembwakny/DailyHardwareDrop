@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T07:16:38.835Z",
+  "generatedAt": "2026-08-20T07:06:35.212Z",
   "source": "arXiv Quantum Physics",
-  "title": "A Quantum Optimization Framework for Data-Assimilation-Augmented Parameter Estimation",
-  "url": "https://arxiv.org/abs/2608.13614",
-  "date": "2026-08-17T04:00:00.000Z",
-  "summary": "arXiv:2608.13614v1 Announce Type: new Abstract: Parameter estimation is a fundamental challenge in the calibration of ordinary differential equation (ODE) models, where repeated n…"
+  "title": "Qkabrine: A Joint Architecture, Encoding, and Hyperparameter Search Framework for Quantum Machine Learning",
+  "url": "https://arxiv.org/abs/2608.18152",
+  "date": "2026-08-20T04:00:00.000Z",
+  "summary": "arXiv:2608.18152v1 Announce Type: new Abstract: Building a quantum machine learning (QML) model competitive with a classical baseline currently requires a practitioner to separate…"
 }
