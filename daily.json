@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T07:06:35.212Z",
+  "generatedAt": "2026-08-21T07:08:05.623Z",
   "source": "arXiv Quantum Physics",
-  "title": "Qkabrine: A Joint Architecture, Encoding, and Hyperparameter Search Framework for Quantum Machine Learning",
-  "url": "https://arxiv.org/abs/2608.18152",
-  "date": "2026-08-20T04:00:00.000Z",
-  "summary": "arXiv:2608.18152v1 Announce Type: new Abstract: Building a quantum machine learning (QML) model competitive with a classical baseline currently requires a practitioner to separate…"
+  "title": "Non-Inertial Response of Correlations: From Scalar Bell Observables to an Extended Correlation Tensor",
+  "url": "https://arxiv.org/abs/2608.19242",
+  "date": "2026-08-21T04:00:00.000Z",
+  "summary": "arXiv:2608.19242v1 Announce Type: new Abstract: A standard Bell observable is a scalar correlation associated with a selected pair of local measurement directions. We formulate it…"
 }
