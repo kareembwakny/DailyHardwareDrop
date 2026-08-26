@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T07:08:44.142Z",
+  "generatedAt": "2026-08-26T07:09:09.960Z",
   "source": "arXiv Quantum Physics",
-  "title": "On the Reachability Problem in Quantum Petri Nets",
-  "url": "https://arxiv.org/abs/2608.21428",
-  "date": "2026-08-25T04:00:00.000Z",
-  "summary": "arXiv:2608.21428v1 Announce Type: new Abstract: In this paper, we propose a novel quantum solution to address the problem of reachability in bounded quantum Petri nets (QPNs), an …"
+  "title": "Single-shot online sequence classification with unbounded quantum memory advantage",
+  "url": "https://arxiv.org/abs/2608.23669",
+  "date": "2026-08-26T04:00:00.000Z",
+  "summary": "arXiv:2608.23669v1 Announce Type: new Abstract: An agent monitors a complex environment, receiving one observation at each time step and eventually deciding how to label the resul…"
 }
