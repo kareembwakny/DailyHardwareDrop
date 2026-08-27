@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T07:09:09.960Z",
+  "generatedAt": "2026-08-27T17:38:56.676Z",
   "source": "arXiv Quantum Physics",
-  "title": "Single-shot online sequence classification with unbounded quantum memory advantage",
-  "url": "https://arxiv.org/abs/2608.23669",
-  "date": "2026-08-26T04:00:00.000Z",
-  "summary": "arXiv:2608.23669v1 Announce Type: new Abstract: An agent monitors a complex environment, receiving one observation at each time step and eventually deciding how to label the resul…"
+  "title": "Comment on 'Supervised quantum machine learning models are kernel methods'",
+  "url": "https://arxiv.org/abs/2608.24923",
+  "date": "2026-08-27T04:00:00.000Z",
+  "summary": "arXiv:2608.24923v1 Announce Type: new Abstract: We identify a few small errors in the proof of Theorem 1 in M. Schuld, 'Supervised quantum machine learning models are kernel metho…"
 }
