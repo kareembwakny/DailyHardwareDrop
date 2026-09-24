@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-23T11:39:26.513Z",
+  "generatedAt": "2026-09-24T11:47:55.329Z",
   "source": "arXiv Quantum Physics",
-  "title": "Encrypted Redundancy as a Diagnostic Resource: Relational Diagnosis in Quantum Encrypted Cloning",
-  "url": "https://arxiv.org/abs/2609.25043",
-  "date": "2026-09-23T04:00:00.000Z",
-  "summary": "arXiv:2609.25043v1 Announce Type: new Abstract: Quantum encrypted cloning encodes an unknown state into several encrypted components, each offering an alternative way to recover i…"
+  "title": "Structured Variational Key Concentration for a Reduced AES Cipher",
+  "url": "https://arxiv.org/abs/2609.26800",
+  "date": "2026-09-24T04:00:00.000Z",
+  "summary": "arXiv:2609.26800v1 Announce Type: new Abstract: Grover search provides the generic quantum baseline for symmetric-key recovery by amplifying a reversible public-verification oracl…"
 }
