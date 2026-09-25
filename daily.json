@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-24T11:47:55.329Z",
+  "generatedAt": "2026-09-25T11:52:31.689Z",
   "source": "arXiv Quantum Physics",
-  "title": "Structured Variational Key Concentration for a Reduced AES Cipher",
-  "url": "https://arxiv.org/abs/2609.26800",
-  "date": "2026-09-24T04:00:00.000Z",
-  "summary": "arXiv:2609.26800v1 Announce Type: new Abstract: Grover search provides the generic quantum baseline for symmetric-key recovery by amplifying a reversible public-verification oracl…"
+  "title": "Hybrid Variational Quantum-Classical Framework with Adaptive Weighting and Efficiency Assessment",
+  "url": "https://arxiv.org/abs/2609.28491",
+  "date": "2026-09-25T04:00:00.000Z",
+  "summary": "arXiv:2609.28491v1 Announce Type: new Abstract: Hybrid quantum-classical neural networks have emerged as a promising approach for leveraging quantum computing in machine learning …"
 }
