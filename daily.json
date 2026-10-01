@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-30T12:36:52.124Z",
+  "generatedAt": "2026-10-01T13:18:20.896Z",
   "source": "arXiv Quantum Physics",
-  "title": "One-dimensional quantum Gibbs states in constant circuit depth",
-  "url": "https://arxiv.org/abs/2609.35973",
-  "date": "2026-09-30T04:00:00.000Z",
-  "summary": "arXiv:2609.35973v1 Announce Type: new Abstract: We prove that the Gibbs state of any spin chain can be exactly decomposed into a mixture of product states over contiguous blocks o…"
+  "title": "Exact Operator Complexity Measures from Random Matchgate Unitaries",
+  "url": "https://arxiv.org/abs/2609.38300",
+  "date": "2026-10-01T04:00:00.000Z",
+  "summary": "arXiv:2609.38300v1 Announce Type: new Abstract: Matchgate circuits describe classically tractable dynamics in a physically relevant setting while nonetheless exhibiting features c…"
 }
