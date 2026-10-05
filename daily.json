@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T13:18:20.896Z",
+  "generatedAt": "2026-10-05T14:42:49.641Z",
   "source": "arXiv Quantum Physics",
-  "title": "Exact Operator Complexity Measures from Random Matchgate Unitaries",
-  "url": "https://arxiv.org/abs/2609.38300",
-  "date": "2026-10-01T04:00:00.000Z",
-  "summary": "arXiv:2609.38300v1 Announce Type: new Abstract: Matchgate circuits describe classically tractable dynamics in a physically relevant setting while nonetheless exhibiting features c…"
+  "title": "Premonoidal Semantics and Scalable Diagrammatics of Fermionic Quantum Computing",
+  "url": "https://arxiv.org/abs/2610.02287",
+  "date": "2026-10-05T04:00:00.000Z",
+  "summary": "arXiv:2610.02287v1 Announce Type: new Abstract: Local fermionic mode (LFM) based quantum computation has pure state spaces that are isomorphic, via the Jordan-Wigner representatio…"
 }
