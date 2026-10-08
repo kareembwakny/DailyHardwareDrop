@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-07T13:26:35.786Z",
+  "generatedAt": "2026-10-08T13:32:25.575Z",
   "source": "arXiv Quantum Physics",
-  "title": "Neural Correlation Learning for Quantum-Enhanced Sensing with Time-Independently Driven Rydberg Atom Arrays",
-  "url": "https://arxiv.org/abs/2610.06961",
-  "date": "2026-10-07T04:00:00.000Z",
-  "summary": "arXiv:2610.06961v1 Announce Type: new Abstract: Quantum-enhanced sensing typically relies on preparing specific entangled states. However, engineering these states in scalable man…"
+  "title": "Quantum Readout Complexity for Normalized Linear Functionals",
+  "url": "https://arxiv.org/abs/2610.08890",
+  "date": "2026-10-08T04:00:00.000Z",
+  "summary": "arXiv:2610.08890v1 Announce Type: new Abstract: Quantum numerical algorithms often encode a positive solution $q$ in the amplitudes of a quantum state, while the required scientif…"
 }
