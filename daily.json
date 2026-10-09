@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-08T13:32:25.575Z",
+  "generatedAt": "2026-10-09T13:19:39.705Z",
   "source": "arXiv Quantum Physics",
-  "title": "Quantum Readout Complexity for Normalized Linear Functionals",
-  "url": "https://arxiv.org/abs/2610.08890",
-  "date": "2026-10-08T04:00:00.000Z",
-  "summary": "arXiv:2610.08890v1 Announce Type: new Abstract: Quantum numerical algorithms often encode a positive solution $q$ in the amplitudes of a quantum state, while the required scientif…"
+  "title": "Quantum non-Markovian response spectra",
+  "url": "https://arxiv.org/abs/2610.10684",
+  "date": "2026-10-09T04:00:00.000Z",
+  "summary": "arXiv:2610.10684v1 Announce Type: new Abstract: Quantum systems are rarely isolated from their surroundings. These hidden environments can retain information and return it later, …"
 }
