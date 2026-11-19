@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-18T15:41:26.463Z",
+  "generatedAt": "2026-11-19T15:46:02.172Z",
   "source": "arXiv Quantum Physics",
-  "title": "Remark on internal relaxation in large number qubit systems",
-  "url": "https://arxiv.org/abs/2611.21681",
-  "date": "2026-11-18T05:00:00.000Z",
-  "summary": "arXiv:2611.21681v1 Announce Type: new Abstract: For a time $t_{c}$ of calculation in an $N$ qubit quantum computer that is much shorter than the intrinsic Heisenberg time $t_H$, $…"
+  "title": "The Bapat-Sunder eigenvalue conjecture fails over the reals",
+  "url": "https://arxiv.org/abs/2611.23269",
+  "date": "2026-11-19T05:00:00.000Z",
+  "summary": "arXiv:2611.23269v1 Announce Type: new Abstract: In 1986 Bapat and Sunder asked whether $\\operatorname{per}(A)$ is the largest eigenvalue of $F_A=[a_{i,j}\\operatorname{per}(A(i,j))…"
 }
